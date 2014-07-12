@@ -11,15 +11,18 @@
 また、ツイート数が "99…9" の時も、ゾロ目判断は無効。その直後に100の倍数ツイートがくるためです。
 
 ##バージョン
-ver 2.0
+ver 2.0.1
 
 ##動作環境
 Python 2系がインストールされたPC
 
 ###動作確認済み環境
 
+##動かし方
+1. ソースコード内の"consumer_key", "consumer_secret", "access_token", "access_token_secret" にそれぞれ自分の鍵を設定。
+
+2. crontabなどで1分毎に動かすなどしてください。
 
 ##連絡先
 Twitter… [@hideo54](https://www.twitter.com/hideo54)
-
-その他はGitHubのプロフィールからご確認願います
+Email… hideo54.pub@gmail.com

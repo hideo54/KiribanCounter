@@ -19,7 +19,7 @@ if (tweets + 1) % 100 == 0:
 
 elif ketasu != 1:
     zoro = 0
-    for i in range(ketasu+1)
+    for i in range(ketasu+1):
         zoro += 10 ** i
 
     if (tweets + 1) % zoro == 0 and (tweets + 1) / zoro != 9:
