@@ -17,6 +17,7 @@ ver 2.0.1
 Python 2系がインストールされたPC
 
 ###動作確認済み環境
+Python 2.7.5 on OS X 10.9.4 (2014/7/14)
 
 ##動かし方
 1. ソースコード内の"consumer_key", "consumer_secret", "access_token", "access_token_secret" にそれぞれ自分の鍵を設定。
